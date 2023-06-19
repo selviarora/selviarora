@@ -1,7 +1,5 @@
 ## hey there!  i'm selvi 👩‍💻
 
-[![Twitter](https://img.shields.io/static/v1?label=%20&message=%40selviaroraa&color=blue&style=flat-square&logo=twitter)](https://twitter.com/selviaroraa) [![LinkedIn](https://img.shields.io/badge/-Selvi%20Arora-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
-
 - learning at [dev degree](www.devdegree.ca) 💻
 - interning at [shopify](https://www.shopify.com/) to enhance the [plus](www.shopifyplus.com) expierience for merchants ✨
 - passionate about making positive impact in the realm of mental health through tech! 🧠
