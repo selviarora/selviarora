@@ -1,4 +1,4 @@
-## hey there!  i'm selvi 👩‍💻
+## heey there! i'm selvi 👩‍💻
 
 - learning at [dev degree](https://www.devdegree.ca) 💻
 - interning at [shopify](https://www.shopify.com/) to enhance the [plus](https://www.shopifyplus.com) experience for merchants ✨
