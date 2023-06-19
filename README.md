@@ -1,4 +1,4 @@
-### heyo! i'm selvi 👩‍💻
+## heyo! i'm selvi 👩‍💻
 ---
 - learning @ devdegree.ca 💻
 - interning @shopify where i'm working on enhancing the @shopifyplus expierience for merchants ✨
