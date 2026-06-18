@@ -5,16 +5,3 @@
 - passionate about bridging healthcare gaps through tech ❤️‍🩹
  
 i find tranquility in the night sky and the vastness of the universe 🪐
-
-some of my fav constellations 🌃 🤗 
-
-```
-                                                                                                  *
-    ·  *        *   *          *            *     *        *                 *       *           /
-  *   ·  *       \ /           |             \   /          \               / \     / \       *-*
-    *  ·          *        *---+---*       *   *   *         *---*         *   *   *   *        \
-  ·    *         /|\           |             \ /            /     \         \ /     \ /          *
-                * | *          *              *            *       *         *       *
-                 / \           |                                              \     /
-                *   *          *                                               *---*
-  ```
